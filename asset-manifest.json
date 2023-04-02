@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-react-bootsrap-responsive/static/css/main.adbe6cf0.css",
-    "main.js": "/Portfolio-react-bootsrap-responsive/static/js/main.ebf08827.js",
+    "main.js": "/Portfolio-react-bootsrap-responsive/static/js/main.8fe7ab96.js",
     "static/media/MERN-Stack.png": "/Portfolio-react-bootsrap-responsive/static/media/MERN-Stack.a913e870f61eef7a83f6.png",
     "static/media/hero-bg-new.jpg": "/Portfolio-react-bootsrap-responsive/static/media/hero-bg-new.37f9618ac10afa3bfcdd.jpg",
+    "static/media/Spring-Boot-React.png": "/Portfolio-react-bootsrap-responsive/static/media/Spring-Boot-React.e8a9578f1ffd8409096f.png",
     "static/media/kg.jpg": "/Portfolio-react-bootsrap-responsive/static/media/kg.15318aee5e263af20cbd.jpg",
     "static/media/dj-react.jpg": "/Portfolio-react-bootsrap-responsive/static/media/dj-react.53aaa055fb62d9d54d66.jpg",
     "static/media/asp.png": "/Portfolio-react-bootsrap-responsive/static/media/asp.c21cdbcd86db2909f511.png",
@@ -11,10 +12,10 @@
     "static/media/amar.jpg": "/Portfolio-react-bootsrap-responsive/static/media/amar.ecd7e05a4734d19c5f6b.jpg",
     "index.html": "/Portfolio-react-bootsrap-responsive/index.html",
     "main.adbe6cf0.css.map": "/Portfolio-react-bootsrap-responsive/static/css/main.adbe6cf0.css.map",
-    "main.ebf08827.js.map": "/Portfolio-react-bootsrap-responsive/static/js/main.ebf08827.js.map"
+    "main.8fe7ab96.js.map": "/Portfolio-react-bootsrap-responsive/static/js/main.8fe7ab96.js.map"
   },
   "entrypoints": [
     "static/css/main.adbe6cf0.css",
-    "static/js/main.ebf08827.js"
+    "static/js/main.8fe7ab96.js"
   ]
 }
