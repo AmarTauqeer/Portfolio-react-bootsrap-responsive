@@ -1,0 +1,47 @@
+.navbar{
+    min-height: 70px;
+    /* background-color: aqua; */
+    background: hsla(222, 72%, 75%, 1);
+
+background: linear-gradient(90deg, hsla(222, 72%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(222, 72%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(222, 72%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#91ACED", endColorstr="#FFFFFF", GradientType=1 );
+    
+}
+.nav-item{
+    padding-right: 15px;
+    font-size: small;
+}
+.nav-item:hover{
+    /* background-color: red; */
+    transition: 0.1s ease-out;
+    cursor: pointer;
+}
+
+.active{
+    text-decoration: none;
+    border-bottom: 2px solid;
+    border-color: red;
+    /* color: white; */
+    padding-bottom: 3px;
+    text-align: center;
+}
+.active:hover{
+    /* background-color: red; */
+    transition: 0.1s ease-out;
+    cursor: pointer;
+}
+
+@media (min-width: 375px) and (max-width: 987px) {
+    .navbar-nav li{
+        display: flex;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 16px;
+        font-size: 14px;
+    }
+  }

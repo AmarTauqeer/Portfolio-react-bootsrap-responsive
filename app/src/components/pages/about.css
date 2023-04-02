@@ -1,0 +1,12 @@
+.pic{
+    border: 1px solid salmon;
+    border-radius: 25px;
+    
+}
+.pic:hover {
+  transition: 2s ease-out;
+  transform: scale(1.5);
+}
+p{
+  text-align: justify;
+}
