@@ -5,7 +5,7 @@ import "./about.css";
 const About = () => {
   return (
     <div className="container">
-      <section id="about" style={{ height: "100vh", backgroundColor: "#ffff" }}>
+      <section id="about" style={{ backgroundColor: "#ffff" }}>
         <div className="container">
           <div className=" text-center">
             <h3>
