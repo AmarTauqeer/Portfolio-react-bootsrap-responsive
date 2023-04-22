@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-react-bootsrap-responsive/static/css/main.ece321b6.css",
-    "main.js": "/Portfolio-react-bootsrap-responsive/static/js/main.de6202f1.js",
+    "main.js": "/Portfolio-react-bootsrap-responsive/static/js/main.1294e564.js",
     "static/media/MERN-Stack.png": "/Portfolio-react-bootsrap-responsive/static/media/MERN-Stack.a913e870f61eef7a83f6.png",
     "static/media/hero-bg-new.jpg": "/Portfolio-react-bootsrap-responsive/static/media/hero-bg-new.37f9618ac10afa3bfcdd.jpg",
     "static/media/Spring-Boot-React.png": "/Portfolio-react-bootsrap-responsive/static/media/Spring-Boot-React.e8a9578f1ffd8409096f.png",
     "static/media/kg.jpg": "/Portfolio-react-bootsrap-responsive/static/media/kg.15318aee5e263af20cbd.jpg",
     "static/media/dj-react.jpg": "/Portfolio-react-bootsrap-responsive/static/media/dj-react.53aaa055fb62d9d54d66.jpg",
     "static/media/asp.png": "/Portfolio-react-bootsrap-responsive/static/media/asp.c21cdbcd86db2909f511.png",
+    "static/media/flask-fastapi-react-bootstrap.jpg": "/Portfolio-react-bootsrap-responsive/static/media/flask-fastapi-react-bootstrap.2ae65aacea494fa5aaed.jpg",
     "static/media/Csharp1.png": "/Portfolio-react-bootsrap-responsive/static/media/Csharp1.088495ae8aa16ed07e27.png",
     "static/media/amar.jpg": "/Portfolio-react-bootsrap-responsive/static/media/amar.ecd7e05a4734d19c5f6b.jpg",
     "index.html": "/Portfolio-react-bootsrap-responsive/index.html",
     "main.ece321b6.css.map": "/Portfolio-react-bootsrap-responsive/static/css/main.ece321b6.css.map",
-    "main.de6202f1.js.map": "/Portfolio-react-bootsrap-responsive/static/js/main.de6202f1.js.map"
+    "main.1294e564.js.map": "/Portfolio-react-bootsrap-responsive/static/js/main.1294e564.js.map"
   },
   "entrypoints": [
     "static/css/main.ece321b6.css",
-    "static/js/main.de6202f1.js"
+    "static/js/main.1294e564.js"
   ]
 }
