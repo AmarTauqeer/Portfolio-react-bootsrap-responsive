@@ -5,6 +5,7 @@ import ASP from "../../images/asp.png";
 import DJ from "../../images/dj-react.jpg";
 import Csharp from "../../images/Csharp1.png";
 import SpringReact from "../../images/Spring-Boot-React.png";
+import FlaskFastReact from "../../images/flask-fastapi-react-bootstrap.jpg"
 import "./portfolio.css";
 
 const Portfolio = () => {
@@ -16,6 +17,30 @@ const Portfolio = () => {
           <hr className="w-25 m-auto" />
           <div className="container">
             <div className="row">
+              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+                <div className="card">
+                  <img src={FlaskFastReact} className="img-fluid" alt="image" />
+                  <div className="card-body">
+                    <h5 className="card-title">CRUD Demo</h5>
+                    <p className="card-text">
+                    FastAPI, bootstrap, and React
+                    </p>
+                    <a
+                      href="https://github.com/AmarTauqeer/FastAPITutorial"
+                      target="_blank"
+                    >
+                      GitHub
+                    </a>
+                    &nbsp;&nbsp;
+                    <a
+                      href="https://drive.google.com/file/d/1lbmhp8zp3wSvol5sujRdtmzrLDlx4QMG/view?usp=sharing"
+                      target="_blank"
+                    >
+                      video
+                    </a>
+                  </div>
+                </div>
+              </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
                   <img src={DJ} className="img-fluid" alt="image" />
