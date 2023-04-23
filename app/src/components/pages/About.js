@@ -35,8 +35,8 @@ const About = () => {
                 <div className="col-sm-12 col-md-6 col-lg-6 col-12">
                   <p>
                     <span className="fw-bold">Website:</span>&nbsp;&nbsp;{" "}
-                    <a href="https://amartauqeer.github.io/" target="_blank">
-                      https://amartauqeer.github.io/
+                    <a href="https://amartauqeer.github.io/Portfolio-react-bootsrap-responsive/" target="_blank">
+                    https://amartauqeer.github.io/Portfolio-react-bootsrap-responsive/
                     </a>
                   </p>
                 </div>

@@ -6,6 +6,7 @@ import DJ from "../../images/dj-react.jpg";
 import Csharp from "../../images/Csharp1.png";
 import SpringReact from "../../images/Spring-Boot-React.png";
 import FlaskFastReact from "../../images/flask-fastapi-react-bootstrap.jpg"
+import FlaskKgReact from "../../images/flask-swagger-react.jpg"
 import "./portfolio.css";
 
 const Portfolio = () => {
@@ -15,6 +16,9 @@ const Portfolio = () => {
         <section id="portfolio">
           <div className="h4 text-center font-weight-bold">Portfolio</div>
           <hr className="w-25 m-auto" />
+          <br />
+          <br />
+          <br />
           <div className="container">
             <div className="row">
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
@@ -37,6 +41,40 @@ const Portfolio = () => {
                       target="_blank"
                     >
                       video
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+                <div className="card">
+                  <img src={FlaskKgReact} className="img-fluid" alt="image" />
+                  <div className="card-body">
+                    <h5 className="card-title">Data Sharing (GDPR) Contracts</h5>
+                    <p className="card-text">
+                    Flask, Knowledge Graph, GraphDB, SPARQL, Swagger, bootstrap, and React
+                    </p>
+                    <a
+                      href="https://github.com/AmarTauqeer/Contract"
+                      target="_blank"
+                    >
+                      GitHub
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+                <div className="card">
+                  <img src={FlaskKgReact} className="img-fluid" alt="image" />
+                  <div className="card-body">
+                    <h5 className="card-title">Data Sharing (GDPR) Contracts with SHACL</h5>
+                    <p className="card-text">
+                    Flask, Knowledge Graph, GraphDB, SPARQL, SHACL, Swagger, bootstrap, and React
+                    </p>
+                    <a
+                      href="https://github.com/AmarTauqeer/Contract-shacl-repairs"
+                      target="_blank"
+                    >
+                      GitHub
                     </a>
                   </div>
                 </div>
