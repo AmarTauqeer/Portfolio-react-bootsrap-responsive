@@ -59,6 +59,7 @@ const Portfolio = () => {
                     >
                       GitHub
                     </a>
+                    &nbsp;&nbsp;
                   </div>
                 </div>
               </div>
@@ -76,6 +77,7 @@ const Portfolio = () => {
                     >
                       GitHub
                     </a>
+                    &nbsp;&nbsp;
                     <a
                       href="https://www.youtube.com/watch?v=PkZfFXdVEp8&ab_channel=AmarTauqeer"
                       target="_blank"

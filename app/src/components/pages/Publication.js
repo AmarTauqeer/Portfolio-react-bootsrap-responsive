@@ -114,6 +114,7 @@ const Publication = () => {
               </div>
             </div>
           </div>
+          <br />
           <div
             className="d-flex flex-row pt-3"
             style={{
@@ -129,20 +130,21 @@ const Publication = () => {
                 Consent, Contracts, and Licenses (upcoming)
               </h4>
               <h6>Amar Tauqeer, Tek Raj Chhetri, Anna Fensel.</h6>
-              <div className="d-flex flex-row w-25 pb-3">
-                <div className="col">
+              {/* <div className="d-flex flex-row w-25 pb-3"> */}
+                {/* <div className="col"> */}
                   {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
                     PDF
                   </a> */}
-                </div>
+                {/* </div> */}
                 {/* <div className="col">
                   <a href="" target="_blank">
                     DOI
                   </a>
                 </div> */}
-              </div>
+              {/* </div> */}
             </div>
           </div>
+          <br />
           <div
             className="d-flex flex-row pt-3"
             style={{
@@ -161,39 +163,63 @@ const Publication = () => {
                 Anelia Kurteva, Tek Raj Chhetri, Amar Tauqeer, Rainer Hilscher,
                 Anna Fensel, Kevin Nagorny, Ana Correia, Albert Zilverberg, Stefan Schestakov, Thorben Funke, Elena Demidova.
               </h6>
-              <div className="d-flex flex-row w-25 pb-3">
-                <div className="col">
+              {/* <div className="d-flex flex-row w-25 pb-3">
+                <div className="col"> */}
                   {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
                     PDF
                   </a> */}
-                </div>
+                {/* </div> */}
                 {/* <div className="col">
                   <a href="" target="_blank">
                     DOI
                   </a>
                 </div> */}
-              </div>
+              {/* </div> */}
             </div>
+
+          </div>
+          <br />
+          <div
+            className="d-flex flex-row pt-3"
+            style={{
+              padding: "5px",
+              borderRadius: "15px",
+              borderColor: "blue",
+              border: "1px solid blue",
+            }}
+          >
             <div className="col">
               <h4>
               Smell and Taste Disorders Knowledge Graph: Answering Questions Using Health Data (upcoming)
               </h4>
               <h6>
-                Amar Tauqeer, Ismaheel Hammid, Sareh Aghaei, Parvaneh Parvin, Elbrich M. Postma, Anna Fensel.
+              Amar Tauqeer, Ismaheel Hammid, Sareh Aghaei, Parvaneh Parvin, Elbrich M. Postma, Anna Fensel.
               </h6>
-              <div className="d-flex flex-row w-25 pb-3">
-                <div className="col">
+              {/* <div className="d-flex flex-row w-25 pb-3">
+                <div className="col"> */}
                   {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
                     PDF
                   </a> */}
-                </div>
+                {/* </div> */}
                 {/* <div className="col">
                   <a href="" target="_blank">
                     DOI
                   </a>
                 </div> */}
-              </div>
+              {/* </div> */}
             </div>
+
+          </div>
+          <br />
+          <div
+            className="d-flex flex-row pt-3"
+            style={{
+              padding: "5px",
+              borderRadius: "15px",
+              borderColor: "blue",
+              border: "1px solid blue",
+            }}
+          >
             <div className="col">
               <h4>
               SHACL-based Application of Integrity Constraints and Repairs for Contract Compliance Verification (upcoming)
@@ -201,20 +227,22 @@ const Publication = () => {
               <h6>
               Robert David, Albin Ahmeti, Geni Bushati, Amar Tauqeer, Anna Fensel.
               </h6>
-              <div className="d-flex flex-row w-25 pb-3">
-                <div className="col">
+              {/* <div className="d-flex flex-row w-25 pb-3">
+                <div className="col"> */}
                   {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
                     PDF
                   </a> */}
-                </div>
+                {/* </div> */}
                 {/* <div className="col">
                   <a href="" target="_blank">
                     DOI
                   </a>
                 </div> */}
-              </div>
+              {/* </div> */}
             </div>
+
           </div>
+          <br />
         </section>
       </div>
     </>
