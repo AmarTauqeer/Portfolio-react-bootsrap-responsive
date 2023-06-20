@@ -76,6 +76,12 @@ const Portfolio = () => {
                     >
                       GitHub
                     </a>
+                    <a
+                      href="https://www.youtube.com/watch?v=PkZfFXdVEp8&ab_channel=AmarTauqeer"
+                      target="_blank"
+                    >
+                      video
+                    </a>
                   </div>
                 </div>
               </div>
