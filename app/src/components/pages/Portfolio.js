@@ -232,14 +232,14 @@ const Portfolio = () => {
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/1XtRr2bIkczCGt8XIKzvYsGpjOwCWGHPN/view"
+                      href="https://www.youtube.com/watch?v=GcjNJRhwRZI&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/1sVWNYi4foQtsGU2p8tm6TcFAyDBd5urH/view"
+                      href="https://www.youtube.com/watch?v=HmUK4wOj36c&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
@@ -263,7 +263,7 @@ const Portfolio = () => {
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/17qF61vvYdghemyIs3CIsyvY6_R_D-kJ3/view"
+                      href="https://www.youtube.com/watch?v=EBYiN_Xn55k&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
@@ -288,14 +288,14 @@ const Portfolio = () => {
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/1frmBJ8NBUC0mATmcox15hmmmG7G9kB8S/view"
+                      href="https://www.youtube.com/watch?v=CwJbuF-berM&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/106b0wgjSVY8HK2Jd09ohCi6G_QWeUdfJ/view"
+                      href="https://www.youtube.com/watch?v=-oAEUkVXraY&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
@@ -344,7 +344,7 @@ const Portfolio = () => {
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/1mLgS8tBHO-voUiCxnOxQ7px98EiOpxEp/view"
+                      href="https://www.youtube.com/watch?v=_m7GETGtpzA&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
@@ -368,7 +368,7 @@ const Portfolio = () => {
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/1yv5I-746gutq5u6mbtFL-dBiJjJu7v_Y/view?usp=sharing"
+                      href="https://www.youtube.com/watch?v=JI8m1BehSMc&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
@@ -393,7 +393,7 @@ const Portfolio = () => {
                     </a>
                     &nbsp;&nbsp;
                     <a
-                      href="https://drive.google.com/file/d/19UryiYpiFudZ8Mozy43ZU6mWk2aLaHNo/view"
+                      href="https://www.youtube.com/watch?v=KR1qBJa0bLs&ab_channel=AmarTauqeer"
                       target="_blank"
                     >
                       video
