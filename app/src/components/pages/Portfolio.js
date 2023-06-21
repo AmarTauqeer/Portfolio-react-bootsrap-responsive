@@ -293,10 +293,17 @@ const Portfolio = () => {
                     >
                       video
                     </a>
+                    &nbsp;&nbsp;
+                    <a
+                      href="https://drive.google.com/file/d/106b0wgjSVY8HK2Jd09ohCi6G_QWeUdfJ/view"
+                      target="_blank"
+                    >
+                      video
+                    </a>
                   </div>
                 </div>
               </div>
-              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+              {/* <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
                   <img src={MERN} className="img-fluid" alt="image" />
                   <div className="card-body">
@@ -320,7 +327,7 @@ const Portfolio = () => {
                     </a>
                   </div>
                 </div>
-              </div>
+              </div> */}
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
                   <img src={ASP} className="img-fluid" alt="image" />
