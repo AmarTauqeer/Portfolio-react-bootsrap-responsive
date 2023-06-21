@@ -275,7 +275,7 @@ const Portfolio = () => {
                 <div className="card">
                   <img src={MERN} className="img-fluid" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">MERN-Full-Stack Part-I</h5>
+                    <h5 className="card-title">MERN-Full-Stack Application</h5>
                     <p className="card-text">
                       Order management system using React, Express, Node,
                       MongoDB and Bootstrap.
