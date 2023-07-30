@@ -64,7 +64,7 @@ const Publication = () => {
                 Sources
               </h4>
               <h6>
-                E Huaman, A Tauqeer, A Fensel Iberoamerican Knowledge Graphs and
+              Elwin Huaman, Amar Tauqeer, Anna Fensel Iberoamerican Knowledge Graphs and
                 Semantic Web Conference, 47-60.
               </h6>
               <div className="d-flex flex-row w-25 pb-3">
