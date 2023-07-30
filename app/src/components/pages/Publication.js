@@ -126,55 +126,24 @@ const Publication = () => {
           >
             <div className="col">
               <h4>
-                An Integrated Approach to GDPR-compliant Data Sharing Employing
-                Consent, Contracts, and Licenses (upcoming)
-              </h4>
-              <h6>Amar Tauqeer, Tek Raj Chhetri, Anna Fensel.</h6>
-              {/* <div className="d-flex flex-row w-25 pb-3"> */}
-                {/* <div className="col"> */}
-                  {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
-                    PDF
-                  </a> */}
-                {/* </div> */}
-                {/* <div className="col">
-                  <a href="" target="_blank">
-                    DOI
-                  </a>
-                </div> */}
-              {/* </div> */}
-            </div>
-          </div>
-          <br />
-          <div
-            className="d-flex flex-row pt-3"
-            style={{
-              padding: "5px",
-              borderRadius: "15px",
-              borderColor: "blue",
-              border: "1px solid blue",
-            }}
-          >
-            <div className="col">
-              <h4>
-                The smashHitCore ontology for GDPR-compliant sensor data sharing
-                in smart cities (upcoming)
+              The smashHitCore Ontology for GDPR-Compliant Sensor Data Sharing in Smart Cities
               </h4>
               <h6>
                 Anelia Kurteva, Tek Raj Chhetri, Amar Tauqeer, Rainer Hilscher,
                 Anna Fensel, Kevin Nagorny, Ana Correia, Albert Zilverberg, Stefan Schestakov, Thorben Funke, Elena Demidova.
               </h6>
-              {/* <div className="d-flex flex-row w-25 pb-3">
-                <div className="col"> */}
-                  {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
+              <div className="d-flex flex-row w-25 pb-3">
+                <div className="col">
+                  <a href="https://www.mdpi.com/1424-8220/23/13/6188" target="_blank">
                     PDF
-                  </a> */}
-                {/* </div> */}
-                {/* <div className="col">
-                  <a href="" target="_blank">
+                  </a>
+                </div>
+                <div className="col">
+                  <a href="https://doi.org/10.3390/s23136188" target="_blank">
                     DOI
                   </a>
-                </div> */}
-              {/* </div> */}
+                </div>
+              </div>
             </div>
 
           </div>
@@ -195,23 +164,23 @@ const Publication = () => {
               <h6>
               Amar Tauqeer, Ismaheel Hammid, Sareh Aghaei, Parvaneh Parvin, Elbrich M. Postma, Anna Fensel.
               </h6>
-              {/* <div className="d-flex flex-row w-25 pb-3">
-                <div className="col"> */}
-                  {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
+              <div className="d-flex flex-row w-25 pb-3">
+                <div className="col">
+                  <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015518" target="_blank">
                     PDF
-                  </a> */}
-                {/* </div> */}
-                {/* <div className="col">
-                  <a href="" target="_blank">
+                  </a>
+                </div>
+                <div className="col">
+                  <a href="https://doi.org/10.1016/j.eswa.2023.121049" target="_blank">
                     DOI
                   </a>
-                </div> */}
-              {/* </div> */}
+                </div>
+              </div>
             </div>
 
           </div>
           <br />
-          <div
+           <div
             className="d-flex flex-row pt-3"
             style={{
               padding: "5px",
@@ -222,25 +191,12 @@ const Publication = () => {
           >
             <div className="col">
               <h4>
-              SHACL-based Application of Integrity Constraints and Repairs for Contract Compliance Verification (upcoming)
+                An Integrated Approach to GDPR-compliant Data Sharing Employing
+                Consent, Contracts, and Licenses (upcoming)
               </h4>
-              <h6>
-              Robert David, Albin Ahmeti, Geni Bushati, Amar Tauqeer, Anna Fensel.
-              </h6>
-              {/* <div className="d-flex flex-row w-25 pb-3">
-                <div className="col"> */}
-                  {/* <a href="https://www.trusts-data.eu/wp-content/uploads/2022/06/04_smashHit-Fensel_220603_WSSemanticInteroperability.pdf" target="_blank">
-                    PDF
-                  </a> */}
-                {/* </div> */}
-                {/* <div className="col">
-                  <a href="" target="_blank">
-                    DOI
-                  </a>
-                </div> */}
-              {/* </div> */}
+              <h6>Amar Tauqeer,Robert David, Albin Ahmeti, Tek Raj Chhetri, Geni Bushati, Amar Tauqeer, Anna Fensel.</h6>
+             
             </div>
-
           </div>
           <br />
         </section>
