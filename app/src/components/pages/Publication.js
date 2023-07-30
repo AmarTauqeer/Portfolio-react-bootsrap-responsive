@@ -159,7 +159,7 @@ const Publication = () => {
           >
             <div className="col">
               <h4>
-              Smell and Taste Disorders Knowledge Graph: Answering Questions Using Health Data (upcoming)
+              Smell and Taste Disorders Knowledge Graph: Answering Questions Using Health Data
               </h4>
               <h6>
               Amar Tauqeer, Ismaheel Hammid, Sareh Aghaei, Parvaneh Parvin, Elbrich M. Postma, Anna Fensel.
