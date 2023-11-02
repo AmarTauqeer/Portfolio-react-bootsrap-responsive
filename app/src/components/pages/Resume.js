@@ -34,6 +34,14 @@ const Resume = () => {
               </div>
 
               <h3 class="resume-title">Education</h3>
+
+              <div class="resume-item">
+                <h4>Doctor of Philosophy -PhD</h4>
+                <h5>10/2020 - present</h5>
+                <p><em>WUR (Wageningen Data Competence Center and Consumption and Healthy Lifestyles Chair Group, Wageningen University & Research), The Netherlands</em></p>
+                <p>Course Work: Semantic Web, Research Seminar: Semantic Technology, Text and Web Mining mit RapidMiner, Data Management and Analysis for Environmental Sciences, Distributed systems,
+                  Successful Meetings</p>
+              </div>
               <div class="resume-item">
                 <h4>Master in Information Systems</h4>
                 <h5>11/2013 - 08/2017</h5>
@@ -41,13 +49,6 @@ const Resume = () => {
                 <p>Course Work: Business process management, spatial business intelligence, data mining
                   and decision support systems, Sustainable IS, Distributed systems,
                   Database systems, SAP ERP, SAPBW</p>
-              </div>
-              <div class="resume-item">
-                <h4>Doctor of Philosophy -PhD</h4>
-                <h5>10/2020 - present</h5>
-                <p><em>WUR (Wageningen Data Competence Center and Consumption and Healthy Lifestyles Chair Group, Wageningen University & Research), The Netherlands</em></p>
-                <p>Course Work: Semantic Web, Research Seminar: Semantic Technology, Text and Web Mining mit RapidMiner, Data Management and Analysis for Environmental Sciences, Distributed systems,
-                  Successful Meetings</p>
               </div>
               <div class="resume-item">
                 <h4>Master in Information Technology</h4>
@@ -68,19 +69,7 @@ const Resume = () => {
             </div>
             <div class="col-lg-6">
               <h3 class="resume-title">Professional Experience</h3>
-              <div class="resume-item">
-                <h4>Researcher</h4>
-                <h5>04/2021 - 10/2023</h5>
-                <p><em>University of Innsbruck, Innsbruck, Austria</em></p>
-                <p>
-                  <ul>
-                    <li>Working on EU Project Smashit: https://smashhit.eu/</li>
-                    <li>Technology: Semantic Web, Knowledge Graph, Ontologies, SPARQL, VocBench,
-                      protege </li>
-                    <li>Employment type: full-time</li>
-                  </ul>
-                </p>
-              </div>
+              
               <div class="resume-item">
                 <h4>Doctor of Philosophy -PhD Thesis</h4>
                 <h5>11/2023 - present</h5>
@@ -91,6 +80,19 @@ const Resume = () => {
                     <li>Technology: Semantic Web, Knowledge Graph, Ontologies, SPARQL, VocBench,
                       protege </li>
                     <li>Employment type: Diploma thesis / dissertation</li>
+                  </ul>
+                </p>
+              </div>
+              <div class="resume-item">
+                <h4>Researcher</h4>
+                <h5>04/2021 - 10/2023</h5>
+                <p><em>University of Innsbruck, Innsbruck, Austria</em></p>
+                <p>
+                  <ul>
+                    <li>Working on EU Project Smashit: https://smashhit.eu/</li>
+                    <li>Technology: Semantic Web, Knowledge Graph, Ontologies, SPARQL, VocBench,
+                      protege </li>
+                    <li>Employment type: full-time</li>
                   </ul>
                 </p>
               </div>
