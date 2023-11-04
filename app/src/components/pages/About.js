@@ -77,8 +77,7 @@ const About = () => {
               <h3 className="text-center pt-5">Professional Summary</h3>
 
               <p className="lh-lg">
-                I'm a professional developer and researcher at University Of
-                Inssbruck, Austria. I have expreienced in Semantic Web,
+                I'm a professional developer and researcher at Wageningen University & Research, the Netherlands. I have expreienced in Semantic Web,
                 Knowledge Graph, Ontologies, Django, Flask, Node, Express,
                 React, MonogoDB, Middleware, JWT, Passport, LocalStrategy, Local
                 Storage, JavaScript, Jquery, HTML5, Web Programming Skills,

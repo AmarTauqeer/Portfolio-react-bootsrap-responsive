@@ -23,7 +23,7 @@ const Resume = () => {
               <h3 class="resume-title">Sumary</h3>
               <div class="resume-item pb-0">
                 <h4>Amar Tauqeer</h4>
-                <p><em>Amar Tauqeer MSc has more than 4 years of experience in software development using different programming languages such as Python, Oracle, and C#. He used many frameworks  for web backend development, such as Django, Flask, and Plotly Dash. Recently, the semantic stack has been used in EU project smashHit(https://cordis.europa.eu/project/id/871477), where I was involved in developing smashHitCore ontology, knowledge graph, and building smenatic models for contracts.</em></p>
+                <p><em>Amar Tauqeer MSc has more than 5 years of experience in software development using different programming languages such as Python, Oracle, NodeJS, and C#. He used many frameworks for web backend development, such as Django, Flask, Asp.net MVC5, and Plotly Dash. Recently, the semantic stack has been used in EU project smashHit(<a href="https://cordis.europa.eu/project/id/871477" target="_blank"> https://cordis.europa.eu/project/id/871477</a>), where I was involved in developing smashHitCore ontology, knowledge graph, building semantic models for data sharing contracts, and a GDPR-compliant contracting tool (<a href="https://github.com/AmarTauqeer/Contract" target="_blank"> https://github.com/AmarTauqeer/Contract</a>, and extended version <a href="https://github.com/AmarTauqeer/Contract-license" target="_blank"> https://github.com/AmarTauqeer/Contract-license</a>).</em></p>
                 <p>
                   <ul>
                     <li>Teckniker strasse 7, 6020 Innsbruck, Austria</li>
@@ -69,7 +69,7 @@ const Resume = () => {
             </div>
             <div class="col-lg-6">
               <h3 class="resume-title">Professional Experience</h3>
-              
+
               <div class="resume-item">
                 <h4>Doctor of Philosophy -PhD Thesis</h4>
                 <h5>11/2023 - present</h5>
@@ -96,19 +96,7 @@ const Resume = () => {
                   </ul>
                 </p>
               </div>
-              <div class="resume-item">
-                <h4>Working student</h4>
-                <h5>09/2020 - 02/2021</h5>
-                <p><em>University of Innsbruck, Innsbruck, Austria</em></p>
-                <p>
-                  <ul>
-                    <li>Graph validator</li>
-                    <li>Technology: Knowledge Graph, GraphDB, React JS, Node JS, Bootstrap 4, REST
-                      API's</li>
-                    <li>Employment type: Freelancer / project work</li>
-                  </ul>
-                </p>
-              </div>
+
               <div class="resume-item">
                 <h4>Working student</h4>
                 <h5>09/2020 - 02/2021</h5>
