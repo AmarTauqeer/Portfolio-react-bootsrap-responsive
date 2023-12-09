@@ -16,8 +16,7 @@ const Home = () => {
               <div className="col-sm-12 col-md-12 col-lg-12 col-12">
                 <hr className="w-25 m-auto" />
                 <div className="text-center my-4 text-uppercase fs-4 fst-italic">
-                  I'm a professional developer and researcher at University Of
-                  Inssbruck, Austria.
+                  Amar Tauqeer is a professional developer and researcher at Wageningen University & Research.
                 </div>
               </div>
             </div>

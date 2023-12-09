@@ -1,6 +1,5 @@
 .pic{
-    border: 1px solid salmon;
-    border-radius: 25px;
+    border-radius: 50%;
     
 }
 .pic:hover {

@@ -3,8 +3,8 @@ import React from "react";
 const Publication = () => {
   return (
     <>
-      <div className="container">
-        <section id="publication" style={{ height: "100vh" }}>
+      <div className="container mb-5">
+        <section id="publication">
           <div className="h4 text-center font-weight-bold">Publication</div>
           <hr className="w-25 m-auto" />
           <br />
@@ -192,13 +192,31 @@ const Publication = () => {
             <div className="col">
               <h4>
                 An Integrated Approach to GDPR-compliant Data Sharing Employing
-                Consent, Contracts, and Licenses (upcoming)
+                Consent, Contracts, and Licenses (under review in the journal Elsvier Data & Knowledge Engineering)
               </h4>
-              <h6>Amar Tauqeer,Robert David, Albin Ahmeti, Tek Raj Chhetri, Geni Bushati, Amar Tauqeer, Anna Fensel.</h6>
+              <h6>Amar Tauqeer, Robert David, Albin Ahmeti, Tek Raj Chhetri, Geni Bushati, Amar Tauqeer, Anna Fensel.</h6>
              
             </div>
           </div>
           <br />
+          <div
+            className="d-flex flex-row pt-3"
+            style={{
+              padding: "5px",
+              borderRadius: "15px",
+              borderColor: "blue",
+              border: "1px solid blue",
+            }}
+          >
+            <div className="col">
+              <h4>
+              GDPR Data Sharing Contract Management and Compliance Verification Tool (under review in the journal SoftwarX)
+              </h4>
+              <h6>Amar Tauqeer, Anna Fensel.</h6>
+            </div>
+          </div>
+          <br />
+
         </section>
       </div>
     </>

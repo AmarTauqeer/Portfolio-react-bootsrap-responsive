@@ -35,14 +35,18 @@ const About = () => {
                 <div className="col-sm-12 col-md-6 col-lg-6 col-12">
                   <p>
                     <span className="fw-bold">Website:</span>&nbsp;&nbsp;{" "}
-                    <a href="https://amartauqeer.github.io/Portfolio-react-bootsrap-responsive/" target="_blank">
-                    https://amartauqeer.github.io/Portfolio-react-bootsrap-responsive/
+                    <a
+                      href="https://amartauqeer.github.io/Portfolio-react-bootsrap-responsive/"
+                      target="_blank"
+                    >
+                      https://amartauqeer.github.io/Portfolio-react-bootsrap-responsive/
                     </a>
                   </p>
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-6 col-12">
                   <p>
                     <span className="fw-bold">Degree:</span>&nbsp;&nbsp; Master
+                    (continue PhD)
                   </p>
                 </div>
               </div>
@@ -77,16 +81,19 @@ const About = () => {
               <h3 className="text-center pt-5">Professional Summary</h3>
 
               <p className="lh-lg">
-                I'm a professional developer and researcher at Wageningen University & Research, the Netherlands. I have expreienced in Semantic Web,
-                Knowledge Graph, Ontologies, Django, Flask, Node, Express,
-                React, MonogoDB, Middleware, JWT, Passport, LocalStrategy, Local
-                Storage, JavaScript, Jquery, HTML5, Web Programming Skills,
-                E-Commerce, Asp.net MVC, C#, Entity framework, SQL Server, SQL
-                server Management Studio, Linq, SAP Crystal Reports, Database
-                first approach, Code first approach. My main ambitious is to be
-                able to work for an encouraging and stable company that will
-                assist me in developing,improving, and obtaining the necessary
-                skills in order to become the best engineer possible.
+                Amar Tauqeer is a professional developer and researcher at
+                Wageningen University & Research, the Netherlands. He has
+                expreienced in Semantic Web, Knowledge Graph, Ontologies,
+                Django, Flask, Node, Express, React, Java Spring Boot, Java Spring data
+                jpa, Java spring web security, MySQl, MonogoDB, Middleware, JWT,
+                Passport, LocalStrategy, Local Storage, JavaScript, Jquery,
+                HTML5, Web Programming Skills, E-Commerce, Asp.net MVC, C#,
+                Entity framework, SQL Server, SQL server Management Studio,
+                Linq, SAP Crystal Reports, Database first approach, Code first
+                approach. His main ambitious is to be able to work for an
+                encouraging and stable company that will assist him in
+                developing,improving, and obtaining the necessary skills in
+                order to become the best engineer possible.
               </p>
             </div>
           </div>

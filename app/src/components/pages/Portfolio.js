@@ -5,6 +5,7 @@ import ASP from "../../images/asp.png";
 import DJ from "../../images/dj-react.jpg";
 import Csharp from "../../images/Csharp1.png";
 import SpringReact from "../../images/Spring-Boot-React.png";
+import SpringMicroservices from "../../images/spring-microservices.jpg"
 import FlaskFastReact from "../../images/flask-fastapi-react-bootstrap.jpg"
 import FlaskKgReact from "../../images/flask-swagger-react.jpg"
 import "./portfolio.css";
@@ -21,6 +22,30 @@ const Portfolio = () => {
           <br />
           <div className="container">
             <div className="row">
+            <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+                <div className="card">
+                  <img src={SpringMicroservices} className="img-fluid" alt="image" />
+                  <div className="card-body">
+                    <h5 className="card-title">Spring Boot 3 Plus Microservices</h5>
+                    <p className="card-text">
+                    Spring Boot, NextJS, ReactJS, Bootstrap, MySQL, Zipkin, Eureka Server, Eureka Client, API Gateway
+                    </p>
+                    <a
+                      href="https://github.com/AmarTauqeer/spring-mysql-microservice"
+                      target="_blank"
+                    >
+                      GitHub
+                    </a>
+                    &nbsp;&nbsp;
+                    <a
+                      href="https://www.youtube.com/watch?v=SMzG2y-uh5k&ab_channel=AmarTauqeer"
+                      target="_blank"
+                    >
+                      video
+                    </a>
+                  </div>
+                </div>
+              </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
                   <img src={FlaskFastReact} className="img-fluid" alt="image" />

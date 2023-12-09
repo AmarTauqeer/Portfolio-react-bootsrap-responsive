@@ -15,7 +15,7 @@ const Contact = () => {
   };
   return (
     <>
-      <div className="container">
+      <div className="container mt-5">
         <section id="contact" style={{ height: "100vh" }}>
           <div className="h4 text-center font-weight-bold">Contact</div>
           <hr className="w-25 m-auto" />
