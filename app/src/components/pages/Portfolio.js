@@ -5,9 +5,10 @@ import ASP from "../../images/asp.png";
 import DJ from "../../images/dj-react.jpg";
 import Csharp from "../../images/Csharp1.png";
 import SpringReact from "../../images/Spring-Boot-React.png";
-import SpringMicroservices from "../../images/spring-microservices.jpg"
-import FlaskFastReact from "../../images/flask-fastapi-react-bootstrap.jpg"
-import FlaskKgReact from "../../images/flask-swagger-react.jpg"
+import SpringMicroservices from "../../images/spring-microservices.jpg";
+import FlaskFastReact from "../../images/flask-fastapi-react-bootstrap.jpg";
+import FlaskKgReact from "../../images/flask-swagger-react.jpg";
+import SpringReactMySQLTailwind from "../../images/spring-next-react-mysql-tailwind.png"
 import "./portfolio.css";
 
 const Portfolio = () => {
@@ -24,11 +25,48 @@ const Portfolio = () => {
             <div className="row">
             <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={SpringMicroservices} className="img-fluid" alt="image" />
+                  <img
+                    src={SpringReactMySQLTailwind}
+                    className="img-fluid"
+                    alt="image"
+                  />
                   <div className="card-body">
-                    <h5 className="card-title">Spring Boot 3 Plus Microservices</h5>
+                    <h5 className="card-title">
+                     Java Spring Boot, Next, MySQL Blog Application
+                    </h5>
                     <p className="card-text">
-                    Spring Boot, NextJS, ReactJS, Bootstrap, MySQL, Zipkin, Eureka Server, Eureka Client, API Gateway
+                      Java Spring Boot, NextJS, ReactJS, Tailwind, MySQL
+                    </p>
+                    <a
+                      href="https://github.com/AmarTauqeer/spring-next-mysql-blog"
+                      target="_blank"
+                    >
+                      GitHub
+                    </a>
+                    &nbsp;&nbsp;
+                    <a
+                      href="https://www.youtube.com/watch?v=fi4BAo5-g28&ab_channel=AmarTauqeer"
+                      target="_blank"
+                    >
+                      video
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+                <div className="card">
+                  <img
+                    src={SpringMicroservices}
+                    className="img-fluid"
+                    alt="image"
+                  />
+                  <div className="card-body">
+                    <h5 className="card-title">
+                      Spring Boot 3 Plus Microservices
+                    </h5>
+                    <p className="card-text">
+                      Spring Boot, NextJS, ReactJS, Bootstrap, MySQL, Zipkin,
+                      Eureka Server, Eureka Client, API Gateway
                     </p>
                     <a
                       href="https://github.com/AmarTauqeer/spring-mysql-microservice"
@@ -51,9 +89,7 @@ const Portfolio = () => {
                   <img src={FlaskFastReact} className="img-fluid" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">CRUD Demo</h5>
-                    <p className="card-text">
-                    FastAPI, bootstrap, and React
-                    </p>
+                    <p className="card-text">FastAPI, bootstrap, and React</p>
                     <a
                       href="https://github.com/AmarTauqeer/FastAPITutorial"
                       target="_blank"
@@ -74,9 +110,12 @@ const Portfolio = () => {
                 <div className="card">
                   <img src={FlaskKgReact} className="img-fluid" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">Data Sharing (GDPR) Contracts</h5>
+                    <h5 className="card-title">
+                      Data Sharing (GDPR) Contracts
+                    </h5>
                     <p className="card-text">
-                    Flask, Knowledge Graph, GraphDB, SPARQL, Swagger, bootstrap, and React
+                      Flask, Knowledge Graph, GraphDB, SPARQL, Swagger,
+                      bootstrap, and React
                     </p>
                     <a
                       href="https://github.com/AmarTauqeer/Contract"
@@ -92,9 +131,12 @@ const Portfolio = () => {
                 <div className="card">
                   <img src={FlaskKgReact} className="img-fluid" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">Data Sharing (GDPR) Contracts with SHACL</h5>
+                    <h5 className="card-title">
+                      Data Sharing (GDPR) Contracts with SHACL
+                    </h5>
                     <p className="card-text">
-                    Flask, Knowledge Graph, GraphDB, SPARQL, SHACL, Swagger, bootstrap, and React
+                      Flask, Knowledge Graph, GraphDB, SPARQL, SHACL, Swagger,
+                      bootstrap, and React
                     </p>
                     <a
                       href="https://github.com/AmarTauqeer/Contract-shacl-repairs"
