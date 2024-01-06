@@ -8,7 +8,8 @@ import SpringReact from "../../images/Spring-Boot-React.png";
 import SpringMicroservices from "../../images/spring-microservices.jpg";
 import FlaskFastReact from "../../images/flask-fastapi-react-bootstrap.jpg";
 import FlaskKgReact from "../../images/flask-swagger-react.jpg";
-import SpringReactMySQLTailwind from "../../images/spring-next-react-mysql-tailwind.png"
+import SpringReactMySQLTailwind from "../../images/spring-next-react-mysql-tailwind.png";
+import Inventory from "../../images/inventory.jpg";
 import "./portfolio.css";
 
 const Portfolio = () => {
@@ -23,16 +24,41 @@ const Portfolio = () => {
           <br />
           <div className="container">
             <div className="row">
-            <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
+                <div className="card">
+                  <img src={Inventory} className="img-fluid p-2" alt="image" />
+                  <div className="card-body">
+                    <h5 className="card-title">Inventory Management System</h5>
+                    <p className="card-text">
+                      Django, Django rest framework, NextJS, ReactJS, Tailwind,
+                      MySQL
+                    </p>
+                    <a
+                      href="https://github.com/AmarTauqeer/inventory-management-system"
+                      target="_blank"
+                    >
+                      GitHub
+                    </a>
+                    &nbsp;&nbsp;
+                    <a
+                      href="https://www.youtube.com/watch?v=l5Yq18G0EGw&ab_channel=AmarTauqeer"
+                      target="_blank"
+                    >
+                      video
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
                   <img
                     src={SpringReactMySQLTailwind}
-                    className="img-fluid"
+                    className="img-fluid p-2"
                     alt="image"
                   />
                   <div className="card-body">
                     <h5 className="card-title">
-                     Java Spring Boot, Next, MySQL Blog Application
+                      Blog Application
                     </h5>
                     <p className="card-text">
                       Java Spring Boot, NextJS, ReactJS, Tailwind, MySQL
@@ -57,7 +83,7 @@ const Portfolio = () => {
                 <div className="card">
                   <img
                     src={SpringMicroservices}
-                    className="img-fluid"
+                    className="img-fluid p-2"
                     alt="image"
                   />
                   <div className="card-body">
@@ -86,7 +112,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={FlaskFastReact} className="img-fluid" alt="image" />
+                  <img src={FlaskFastReact} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">CRUD Demo</h5>
                     <p className="card-text">FastAPI, bootstrap, and React</p>
@@ -108,7 +134,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={FlaskKgReact} className="img-fluid" alt="image" />
+                  <img src={FlaskKgReact} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">
                       Data Sharing (GDPR) Contracts
@@ -129,7 +155,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={FlaskKgReact} className="img-fluid" alt="image" />
+                  <img src={FlaskKgReact} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">
                       Data Sharing (GDPR) Contracts with SHACL
@@ -156,7 +182,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={DJ} className="img-fluid" alt="image" />
+                  <img src={DJ} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">Ecommerce</h5>
                     <p className="card-text">
@@ -180,7 +206,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={SpringReact} className="img-fluid" alt="image" />
+                  <img src={SpringReact} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">Employee Management</h5>
                     <p className="card-text">
@@ -204,7 +230,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={DJ} className="img-fluid" alt="image" />
+                  <img src={DJ} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">Professional Dashboard</h5>
                     <p className="card-text">Django, React and Material UI.</p>
@@ -226,7 +252,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={DJ} className="img-fluid" alt="image" />
+                  <img src={DJ} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">
                       Admin Dashboard (with Bootstrap)
@@ -252,7 +278,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={DJ} className="img-fluid" alt="image" />
+                  <img src={DJ} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">
                       React-Django-MongoDB-CRUD-APP
@@ -278,7 +304,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={DJ} className="img-fluid" alt="image" />
+                  <img src={DJ} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">Admin Dashboard</h5>
                     <p className="card-text">
@@ -316,9 +342,9 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={MERN} className="img-fluid" alt="image" />
+                  <img src={MERN} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">MERN-Stack-Redux-CRUD</h5>
+                    <h5 className="card-title">MERN Stack Redux CRUD</h5>
                     <p className="card-text">
                       React, Redux and MongoDB CRUD oprations.
                     </p>
@@ -340,9 +366,9 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={MERN} className="img-fluid" alt="image" />
+                  <img src={MERN} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">MERN-Full-Stack Application</h5>
+                    <h5 className="card-title">MERN Full Stack Application</h5>
                     <p className="card-text">
                       Order management system using React, Express, Node,
                       MongoDB and Bootstrap.
@@ -397,9 +423,9 @@ const Portfolio = () => {
               </div> */}
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={ASP} className="img-fluid" alt="image" />
+                  <img src={ASP} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">Shoppin-Cart-PayPal</h5>
+                    <h5 className="card-title">Shoppin Cart PayPal</h5>
                     <p className="card-text">
                       E-Commerce application using ASP.NET MVC5 and MSSQLSERVER.
                     </p>
@@ -421,9 +447,9 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={Csharp} className="img-fluid" alt="image" />
+                  <img src={Csharp} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
-                    <h5 className="card-title">Window-Desktop-Application</h5>
+                    <h5 className="card-title">Window Desktop Application</h5>
                     <p className="card-text">
                       Windows desktop application using C# and MSSQL SERVER.
                     </p>
@@ -445,7 +471,7 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-12 col-md-6 mt-3 col-lg-4">
                 <div className="card">
-                  <img src={KG} className="img-fluid" alt="image" />
+                  <img src={KG} className="img-fluid p-2" alt="image" />
                   <div className="card-body">
                     <h5 className="card-title">Graph Validator</h5>
                     <p className="card-text">
